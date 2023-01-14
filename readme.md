@@ -8,7 +8,7 @@ Object tracking implemented on videos with YOLOv7, DeepSort and TensorFlow.
 ## Demo of Object Tracker on Persons
 <p align="center"><img src="IO_data/output/new_street.gif"\></p>
 
-## Demo of Object Tracker on Cars
+## Demo of Object Tracker on Vehicles
 <p align="center"><img src="IO_data/output/new_cars.gif"\></p>
 
 <p align="center"><img src="IO_data/output/new_intersection.gif"\></p>
